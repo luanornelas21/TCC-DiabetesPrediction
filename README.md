@@ -19,7 +19,7 @@ Foi utilizado um conjunto de dados público, disponível na UCI Machine Learning
 ## **Sobre os algoritmos**
 Os algoritmos utilizados foram selecionados com base no levantamento bibliográfico realizado em artigos que fizeram experimentos com o mesmo foco
 ## **Resultado**
-Random Forest foi o mais eficaz em todos as métricas e o XGboost ficou em segundo lugar.
+Random Forest foi o mais eficaz em todos as métricas e o XGboost ficou em segundo lugar.  
 Uma das hipóteses para esse resultado é pelo dataset ter quase todos atributos categóricos.
 ## **Próximos passos**
 - Obter mais dados de diferentes regiões;
